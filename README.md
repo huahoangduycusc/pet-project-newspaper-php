@@ -4,6 +4,8 @@ Người dùng đăng ký có thể tương tác với các bài viết, nhắn 
 
 Cho phép admin thống kê, tạo report, khóa tài khỏan vv, chi tiết mời mọi người xem video.
 
+Công nghệ sử dụng: PHP, MySQL, CSS, HTML, JavaScript
+
 Video demo: https://youtu.be/V3_S-69wEhI
 
 ![Screenshot (639)](https://user-images.githubusercontent.com/72727829/129473009-0975400b-9e48-4382-8bbb-83ba24d69fbc.png)
